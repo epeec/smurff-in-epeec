@@ -1,0 +1,9 @@
+[submodule "smurff"]
+	path = smurff
+	url = https://github.com/ExaScience/smurff
+[submodule "bpmf"]
+	path = bpmf
+	url = https://github.com/ExaScience/bpmf
+[submodule "vms"]
+	path = vms
+	url = https://github.com/ExaScience/vms

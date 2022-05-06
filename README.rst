@@ -25,4 +25,4 @@ This directory contains:
   Submodule pointing to https://github.com/ExaScience/bpmf
 
 - vms: virtual molecule screening mini-app
-  Submodule pointing to https://github.com/ExaScience/bpmf
+  Submodule pointing to https://github.com/ExaScience/vms
