@@ -15,7 +15,7 @@ This directory contains:
   much more optimized for HPC (OpenMP, TBB, MPI, GASPI, ArgoDSM).
   Submodule pointing to https://github.com/ExaScience/bpmf
 
-  In EPEEC we optimized BPMF using OmpSs@Cluster, and ArgoDSMyy
+  In EPEEC we optimized BPMF using OmpSs@Cluster, and ArgoDSM
 
 - vms: virtual molecule screening mini-app
   Submodule pointing to https://github.com/ExaScience/vms
