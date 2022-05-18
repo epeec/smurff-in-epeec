@@ -1,10 +1,7 @@
 SMURFF - Scalable Matrix Factorization Framework
 ================================================
 
-SMURFF is a machine learning framework used as a driver for EPEEC.
-SMURFF has been developed in the `ExCAPE H2020 project <http://excape-h2020.eu/>`,
-and is open source.
-
+SMURFF is an open source machine learning framework used as one of the driver applications for EPEEC.
 
 Source Code:
 	https://github.com/ExaScience/smurff
